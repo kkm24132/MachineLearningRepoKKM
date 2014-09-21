@@ -1,5 +1,5 @@
-MachineLearningRepoKKM
-======================
+Machine Learning Repository from Coursera
+=========================================
 
 Machine Learning Repository from Coursera Assignment
 
